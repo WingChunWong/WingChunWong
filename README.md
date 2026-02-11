@@ -6,13 +6,8 @@
 - 💬 Ask me about **AI**
 
 - 📫 How to reach me **lshengevery@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wingchunwong&show_icons=true&locale=en&layout=compact" alt="wingchunwong" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wingchunwong&show_icons=true&locale=en" alt="wingchunwong" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong&" alt="wingchunwong" /></p>
+***
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="./profile/stats.svg" alt="wingchunwong stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong&" alt="wingchunwong streak" />
+</div>
