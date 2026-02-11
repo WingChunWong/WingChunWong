@@ -8,6 +8,7 @@
 - 📫 How to reach me **lshengevery@gmail.com**
 ***
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./profile/stats.svg" alt="wingchunwong stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong&" alt="wingchunwong streak" />
+  <img src="./profile/stats.svg" alt="wingchunwong stats" height="150px" />
+  <img src="./profile/top-langs.svg" alt="wingchunwong toplangs" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong" alt="wingchunwong streak" height="150px" />
 </div>
