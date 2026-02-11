@@ -1,14 +1,27 @@
 <h1 align="center">Hi 👋, I'm WingChunWong</h1>
 <h3 align="center">A student from Hong Kong</h3>
 
-- 🔭 I’m currently working on [My Website](https://github.com/WingChunWong/My-WebSite)
+---
 
+- 🔭 I’m currently working on [My Website](https://github.com/WingChunWong/My-WebSite)
 - 💬 Ask me about **AI**
 
-- 📫 How to reach me **lshengevery@gmail.com**
-***
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="https://t.me/wingchunwong111"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:lshengevery@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/QQ-2750821684-0099FF?style=flat&logo=tencentqq&logoColor=white" alt="QQ" />
+</p>
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
   <img src="./profile/stats.svg" alt="wingchunwong stats" height="150px" />
   <img src="./profile/top-langs.svg" alt="wingchunwong toplangs" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong" alt="wingchunwong streak" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong&theme=default" alt="GitHub Streak" height="150px" />
 </div>
