@@ -19,7 +19,7 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="wingchunwong stats" height="150px" />
-  <img src="./profile/top-langs.svg" alt="wingchunwong toplangs" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong&theme=default" alt="GitHub Streak" height="150px" />
+  <img src="https://grs.wing111.dpdns.org/api?username=wingchunwong&layout=compact&theme=dark&show_icons=true" alt="wingchunwong stats" height="140px" />
+  <img src="https://grs.wing111.dpdns.org/api/top-langs/?username=wingchunwong&layout=compact&theme=dark&show_icons=true" alt="wingchunwong toplangs" height="140px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingchunwong&theme=dark" alt="GitHub Streak" height="140px" />
 </div>
